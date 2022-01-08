@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(57, 68, 77);
+    text-align: center;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    list-style-type: none;
+}
+
+h1 {
+    color: thistle;
+}
+
+a:link,
+a:visited {
+    color: white;
+    font-size: 25px;
+}
+
+a:hover {
+    color: thistle;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+    
