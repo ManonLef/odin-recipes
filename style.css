@@ -8,8 +8,9 @@ body.main {
     text-align: center;
 }
 
-li {
+li.main {
     margin: 30px auto;
+    list-style: none;
 }
 
 h1,
@@ -29,6 +30,7 @@ a:visited {
 a:hover {
     color: thistle;
 }
+
 
 
     
