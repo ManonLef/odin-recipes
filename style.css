@@ -17,13 +17,13 @@ a:visited {
     text-decoration: none;
 }
 
-a:hover {
-    color: thistle;
-}
-
 li {
     list-style-type: none;
     margin: 30px 0px;
+}
+
+a:hover {
+    color: thistle;
 }
 
 
